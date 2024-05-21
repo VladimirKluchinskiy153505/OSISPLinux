@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/vadimir_kluchinskiy/Desktop/ClionProjects/LabWork6Client Select CMakeLists.txt

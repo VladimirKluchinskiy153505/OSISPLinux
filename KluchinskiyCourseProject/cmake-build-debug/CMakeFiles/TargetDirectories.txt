@@ -1,0 +1,3 @@
+/home/vadimir_kluchinskiy/Desktop/CourseExamples/RNotify/cmake-build-debug/CMakeFiles/RNotify.dir
+/home/vadimir_kluchinskiy/Desktop/CourseExamples/RNotify/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vadimir_kluchinskiy/Desktop/CourseExamples/RNotify/cmake-build-debug/CMakeFiles/rebuild_cache.dir

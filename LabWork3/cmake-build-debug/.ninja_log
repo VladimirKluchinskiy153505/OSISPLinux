@@ -1,0 +1,7 @@
+# ninja log v5
+26	42	1709981238366002048	Project3	327a67093b84f67d
+0	26	1709980586019698022	CMakeFiles/Project3.dir/main.c.o	7111538c4f1ea955
+0	25	1709981238350001095	CMakeFiles/Project3.dir/src/main.c.o	658e1e5860f1f755
+0	47	1709985096142374113	CMakeFiles/Project3.dir/src/main.c.o	658e1e5860f1f755
+0	4	0	clean	b273a7cd19f3e0c9
+1	45	1709985102806472254	CMakeFiles/Project3.dir/src/main.c.o	658e1e5860f1f755

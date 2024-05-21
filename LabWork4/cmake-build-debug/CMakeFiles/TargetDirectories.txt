@@ -1,0 +1,3 @@
+/home/vadimir_kluchinskiy/Desktop/ClionProjects/LabWork4/cmake-build-debug/CMakeFiles/LabWork4.dir
+/home/vadimir_kluchinskiy/Desktop/ClionProjects/LabWork4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vadimir_kluchinskiy/Desktop/ClionProjects/LabWork4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

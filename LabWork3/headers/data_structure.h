@@ -1,0 +1,9 @@
+#ifndef CENSOR_DATA_STRUCTURE_H
+#define CENSOR_DATA_STRUCTURE_H
+#define MAX_LINE_LENGTH 4096
+#define MAX_WORD_LENGTH 100
+struct Pair{
+    char first[MAX_WORD_LENGTH];
+    char second[MAX_WORD_LENGTH];
+};
+#endif //CENSOR_DATA_STRUCTURE_H

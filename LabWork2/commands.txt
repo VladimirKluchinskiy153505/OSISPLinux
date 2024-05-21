@@ -1,0 +1,11 @@
+cat file.txt
+sed 's/Orange/Black/' file.txt
+sed -i 's/Orange/Black/' file.txt
+find ../ -type f -name "*sh" > path.txt
+find ../ -type f -name "*sh" >> path.txt append mode
+echo "hello" | sed 's/hello/goodbye/'
+awk '{print}' input2.txt
+awk '{print $1}' input1.txt
+ls -l | awk '{print $1}'
+awk -F':' '{print $1, $2}' input1.txt
+

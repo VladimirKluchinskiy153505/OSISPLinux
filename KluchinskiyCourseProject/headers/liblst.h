@@ -1,0 +1,25 @@
+
+#ifndef __LIBLST_H
+#define __LIBLST_H
+
+// #define _GNU_SOURCE //
+
+#include <stdlib.h> // size_t definition
+#include<string>
+//#ifdef __cplusplus
+//
+//extern "C" {
+//
+//#endif
+ssize_t lstPush(char*** lst, const char* str);
+void lstFree(char** lst);
+char** lstReadDir(const char* path);
+char* lstString(const char* format, ...);
+
+//#ifdef __cplusplus
+//
+//}
+//
+//#endif
+
+#endif

@@ -1,0 +1,6 @@
+DreamCountry:Belarus
+Legend:Vladymtsev
+Goddess:Kalugina
+Grandmaster:Galuts
+Programmer:Farisey
+Sportsmen:Mirolubov

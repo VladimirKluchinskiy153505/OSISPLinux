@@ -1,0 +1,3 @@
+/home/vadimir_kluchinskiy/Desktop/CourseExamples/FolderToScan
+/home/vadimir_kluchinskiy/Desktop/CourseExamples/FolderToScan1
+/home/vadimir_kluchinskiy/Desktop/CourseExamples/FolderToScan2

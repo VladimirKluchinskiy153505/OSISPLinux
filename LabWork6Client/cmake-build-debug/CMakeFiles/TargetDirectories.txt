@@ -1,0 +1,3 @@
+/home/vadimir_kluchinskiy/Desktop/ClionProjects/LabWork6Client/cmake-build-debug/CMakeFiles/LabWork6Client.dir
+/home/vadimir_kluchinskiy/Desktop/ClionProjects/LabWork6Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vadimir_kluchinskiy/Desktop/ClionProjects/LabWork6Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir

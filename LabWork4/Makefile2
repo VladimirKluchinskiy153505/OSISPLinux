@@ -1,0 +1,10 @@
+all:ScanDaemon
+ScanDaemon: daemon.o file_scan_lib.o
+	gcc obj2/daemon.o obj2/file_scan_lib.o -o ScanDaemon -lstdc++
+daemon.o: src/daemon.cpp
+	gcc -c src/daemon.cpp -o obj2/daemon.o
+file_scan_lib.o: src/file_scan_lib.cpp
+	gcc -c src/file_scan_lib.cpp -o obj2/file_scan_lib.o
+
+clean:
+	rm -f obj2/*
